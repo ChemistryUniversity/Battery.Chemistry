@@ -1,1 +1,1 @@
-- [Additional Lecture 2. The Chemistry of Batteries (Intro to Solid-State Chemistry 2019)](
+- [Additional Lecture 2. The Chemistry of Batteries (Intro to Solid-State Chemistry 2019)](https://youtu.be/uOEXP2WEo3M)
