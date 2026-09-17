@@ -1,2 +1,2 @@
 - [Redox Flow Batteries for Grid Energy Storage: Exploring an Emerging Design Space - Fikile Brushett](https://youtu.be/bDI3MBR2gtQ)
-- 
+- [Martin Z. Bazant | Physics of next generation batteries](
