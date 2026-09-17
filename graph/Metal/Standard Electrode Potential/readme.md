@@ -1,5 +1,8 @@
+# Also called: "Standard Reduction Potential"
+
 # Wiki:
 https://en.wikipedia.org/wiki/Standard_electrode_potential
+https://en.wikipedia.org/wiki/Electrode_potential
 
 # A.I.
 https://share.google/aimode/2Z1FiViHcRG5Aciv2
