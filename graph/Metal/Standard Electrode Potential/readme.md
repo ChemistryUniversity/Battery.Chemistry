@@ -2,7 +2,8 @@
 
 # Wiki:
 https://en.wikipedia.org/wiki/Standard_electrode_potential
-https://en.wikipedia.org/wiki/Electrode_potential
+- https://en.wikipedia.org/wiki/Electrode_potential
+- https://en.wikipedia.org/wiki/Electric_potential
 
 # A.I.
 https://share.google/aimode/2Z1FiViHcRG5Aciv2
